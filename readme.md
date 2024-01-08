@@ -109,7 +109,7 @@
 
 - `Important of Star ⭐` : Once you collect 100 or more star then you can exchange the star with bitcoin or with cash.
 
-  <img width="170px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/3af9229f-5ea2-463e-97fe-57ca0207e95c" />
+  <img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/60f9a8df-89a3-4118-8216-b92c05b0a091" />
 
 - Store section are divided in 4 section:
   - Subscribe
@@ -123,14 +123,14 @@
 
   #### More Connection :
 
-    <img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/23f0aec1-a660-43b7-9abe-674ac25f440c" />
+    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/ce4d7dcf-5b73-487c-b9ee-bcf3bebaf32a" />
     <p> img: 4.1.1 </p>
 
   - He get 10 star per month to increase the change of connection with someone at img: 4.1.1.
 
   #### Become a VIP :
 
-    <img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/1b652756-a335-4eef-8418-fe4c7a9d164b" />
+    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/0e28ab92-46cb-447e-b42e-03a9cc905d3e" />
      <p> img: 4.1.2 </p>
 
   - He become a VIP user of our app and as a VIP user he get to boost to top of the events and surely he is always to seen at img: 4.1.2.
@@ -139,32 +139,32 @@
 
   - If you subscribe to our app then you can add connection unlimited. Otherwise, you can add only 5 connections.
 
-    <img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/652064cb-6217-4141-9993-22ebb20ad742" />
+    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/aa867b31-901c-4077-b894-a551fae21b96" />
      <p> img: 4.1.3 </p>
 
   #### Unlock Filters :
 
-    <img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/b291be1e-46a4-4765-b09b-59acc3d8ec60" />
+    <img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/3beda4a3-a9ea-44c7-849c-75ba41a44439" />
      <p> img: 4.1.4 </p>
 
   - He able to unlock all kind of filters and He get full access so that he can set his perference at img: 4.1.4
 
 ### 4.2 Buy :
 
-<img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/1288ba6d-8625-4087-95ce-33bb96de0d68" />
+<img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/67bf6550-71e0-450c-a462-69807f63b268" />
 
 - In this section user can purchase the star.
 
 ### 4.3 Earn:
 
-<img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/758c4bc7-04cc-4b87-9c41-0f366de11844" />
+<img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/f71a7823-7df1-4ce1-a7d3-da916eadb494" />
 
 - If user follow on instagram he get earn 1 star.
 - If user check-in every day at event then he earn 3 star.
 
 ### 4.4 Exchange:
 
-<img width="200px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/4217c2b7-f67b-4b8b-9c3e-f57835fef3b0" />
+<img width="200px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/2f1d3fae-55c1-4294-bb5c-aa14489ee023" />
 
 - If a user earn 100 or more star then he can exchange those star with coin.
 
@@ -172,7 +172,7 @@
 
 # 5.Profile:
 
-<Img  width="170px"  src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/ce5c0180-e6b2-4ac8-9ebb-885b0d2b17c4" />
+<Img  width="170px"  src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/60c75b1e-1653-4d8d-a265-2823bda03a7e" />
 
 - In the profile section user can upload his 6 different picture and added some personal details like his employer details, education deatils, where he live (location details), gender, fun facts etc.
 
