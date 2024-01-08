@@ -11,7 +11,7 @@
 - Events Today
 - Specials
 
-  <img width="170px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/788fc2a7-18dc-4a3b-9866-e9dbadee8c8d" />
+  <img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/6887b9e8-f2ff-411c-b4ec-ede34b16ebdb" />
   <p>img: 1.1 </p>
 
 #### 1.1.1 People:
@@ -81,7 +81,7 @@
 
   - if the app is not running then there is a notification will appear at the top and also badge will be appear to the app icon at img 2.1.
 
-    <img src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/3aa366a2-055a-486a-8ec0-ce5e9c80f0fa" width="170px" />
+    <img src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/305909e5-880d-4e58-9086-21eaf03176eb" width="170px" />
       
      <p>img: 2.1 </p>
 
