@@ -181,8 +181,8 @@
 - At the bottom of the profile screen, there is a preview profile button, If the user taps this button then he navigates a screen where he sees how another user has seen his profile.
   ( i.e. User tap on the img: 5.1.1 preview profile button then he navigates to img: 5.1.2 ( Profile details screen ) where he sees how another user has seen his profile. )
 
-<Img width="170px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/0ee157f3-13d3-4e94-89e9-652912c20e05" />
+<Img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/04a042ef-62c3-4eb4-bb9b-826c80fbca29" />
 <p>img: 5.1.1</p>
 
-<img width="170px" src="https://github.com/Shubhashis-Roy/Bloc-docs/assets/94479675/ff597e93-6b75-41d3-9ad1-b825b9503490" />
+<img width="170px" src="https://github.com/subha-appycodes/Bloc-Docs/assets/155710242/f1257706-7d7f-4df4-93db-f863476ad4e8" />
 <p>img: 5.1.2</p>
